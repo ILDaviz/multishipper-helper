@@ -27,5 +27,5 @@ MultiShipper è un potente modulo per PrestaShop che consente agli utenti di sud
 8. La tua issue sarà creata e aggiunta al tracciamento delle issue del repository. Gli altri utenti e collaboratori possono ora visualizzarla e commentarla.
 #### Congratulazioni! Hai creato con successo una issue su GitHub. Assicurati di controllare le notifiche e gli aggiornamenti o le risposte correlate alla tua issue.
 
-#### Author 👇🏻
+#### Author / Autore 👇🏻
 David Galet
